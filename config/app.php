@@ -165,7 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
-        Tarikhagustia\LaravelMt5\LaravelMt5Provider::class,
+        // Tarikhagustia\LaravelMt5\LaravelMt5Provider::class,
         /*
          * Application Service Providers...
          */

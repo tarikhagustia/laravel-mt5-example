@@ -13,20 +13,20 @@ class TestController extends Controller
         $exampleLogin = 21001480006;
 
         // Create Account
-        $user = new User();
-        $user->setName("John Due Test");
-        $user->setEmail("john@due.com");
-        $user->setGroup("VIP\zeevalue test");
-        $user->setLeverage("50");
-        $user->setPhone("0856123456");
-        $user->setAddress("Sukabumi");
-        $user->setCity("Sukabumi");
-        $user->setState("Jawa Barat");
-        $user->setCountry("Indonesia");
-        $user->setZipCode(1470);
-        $user->setMainPassword("Secure123");
-        $user->setInvestorPassword("NotSecure123");
-        $user->setPhonePassword("NotSecure123");
+        // $user = new User();
+        // $user->setName("John Due Test");
+        // $user->setEmail("john@due.com");
+        // $user->setGroup("grouphere");
+        // $user->setLeverage("50");
+        // $user->setPhone("0856123456");
+        // $user->setAddress("Sukabumi");
+        // $user->setCity("Sukabumi");
+        // $user->setState("Jawa Barat");
+        // $user->setCountry("Indonesia");
+        // $user->setZipCode(1470);
+        // $user->setMainPassword("Secure123");
+        // $user->setInvestorPassword("NotSecure123");
+        // $user->setPhonePassword("NotSecure123");
 
         // $result = $api->createUser($user);
         // dd($result);
